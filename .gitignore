@@ -1,0 +1,8 @@
+*.class
+*.log
+
+# sbt specific
+.project
+.netbeans
+config.php
+authSettings.php
